@@ -1,0 +1,14 @@
+../Core/Src/main.c:103:5:main	7
+../Core/Src/main.c:188:6:SystemClock_Config	3
+../Core/Src/main.c:235:13:MX_CAN1_Init	2
+../Core/Src/main.c:272:13:MX_TIM1_Init	7
+../Core/Src/main.c:347:13:MX_TIM6_Init	3
+../Core/Src/main.c:385:13:MX_UART4_Init	2
+../Core/Src/main.c:418:13:MX_GPIO_Init	1
+../Core/Src/main.c:472:9:CAN_filterConfig	2
+../Core/Src/main.c:491:9:HAL_CAN_RxFifo0MsgPendingCallback	6
+../Core/Src/main.c:512:9:Stepper_Move	6
+../Core/Src/main.c:543:9:Adjust_Fan_Speed	1
+../Core/Src/main.c:549:9:HAL_TIM_PeriodElapsedCallback	1
+../Core/Src/main.c:555:9:iot_Send_Data	2
+../Core/Src/main.c:572:6:Error_Handler	1
